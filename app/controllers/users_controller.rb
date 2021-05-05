@@ -1,4 +1,5 @@
 class UsersController < ApplicationController
+  # Adding flash messages would be simple and provide feedback to the user if things go wrong.
   def new
   end
 
