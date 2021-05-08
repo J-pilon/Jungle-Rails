@@ -2,6 +2,11 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+# Screenshots
+![The root page displays all of the products.](https://raw.githubusercontent.com/J-pilon/Jungle-Rails/77e9fcbf1dcebe75d9d4ce710036efc4df40e15c/public/docs/Screenshot%20from%202021-05-07%2020-35-53.png)
+![Displays the product with its name, description, quantity, and price.](https://raw.githubusercontent.com/J-pilon/Jungle-Rails/77e9fcbf1dcebe75d9d4ce710036efc4df40e15c/public/docs/Screenshot%20from%202021-05-07%2020-35-44.png)
+![Admins can add products.](https://raw.githubusercontent.com/J-pilon/Jungle-Rails/77e9fcbf1dcebe75d9d4ce710036efc4df40e15c/public/docs/Screenshot%20from%202021-05-07%2020-36-02.png)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
